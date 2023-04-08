@@ -1,0 +1,97 @@
+11/19/21 12:46
+
+facial_recognition.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/20/21 13:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+In the space for Problem 2, display the mean face, and an original and mean-shifted face
+Score += 5
+
+Problem 3 (10 points):
+In the space for Problem 3, display some of the eigenfaces
+Score += 5
+
+Problem 4 (10 points):
+Label the reconstructions with what s value was used
+Score += 7
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Some functions could use more comments
+Score += 2
+
+Total score: 34/50 = 68.0%
+
+-------------------------------------------------------------------------------
+
+11/23/21 17:38
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Images not displayed
+Score += 5
+
+Problem 3 (10 points):
+Images not displayed
+Score += 5
+
+Problem 4 (10 points):
+Label the reconstructions by value of s
+Score += 7
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Some functions, such as FacialRec.find_nearest, could use more comments
+Score += 3
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+12/07/21 18:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
